@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+Your ideas and thoughts achieve visual diagrams through a tool which is called mind mapping software. You can create an idea map easily with the help of its application in the form of a mind map maker.
 
-You can use the [editor on GitHub](https://github.com/web-content/Gather-some-information-about-mind-mapping-applications/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+ It is the kind of map that can connect different ideas and provide a complete hierarchy through it. Simple applications that involve brainstorming are the initial point that can lead to diagrams containing complicated visualization of the data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Advantages**
+ The [mind mapping app](https://www.mindomo.com/) has several benefits. to name a few, read the following:
 
-### Markdown
+**1. Brainstorming**
+Where ideas can be organized properly and then presented in an accurate manner through which mind maps are created
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**2. Constructing diagrams**
+It involves creating timelines for the project, plans for architecture, diagrams for networks, or other technical business.
 
-```markdown
-Syntax highlighted code block
+3.     Developing the software and designing the web is the next benefit achieved through mind mapping applications
 
-# Header 1
-## Header 2
-### Header 3
+4.     Live data can be easily imported and then visualized properly in charts or diagrams etc.
 
-- Bulleted
-- List
+**Making a mind map**
 
-1. Numbered
-2. List
+They are different steps that need to be followed when creating a mind map since it is a creative exercise. All of this depends on your preferences and the use of tools. Take a look at the following steps.
 
-**Bold** and _Italic_ and `Code` text
+•	Start with a completely black canvas.
+•	Insert your basic idea or theme
+•	relative ideas need to be brainstormed and then need to be added on the canvas
+•	You can present the connectivity between the ideas with lines.
+•	the ideas being added to the map have to be reorganized with the help of certain elements that you can drop yourself
+•	This information has to be organized properly by changing the sizes and the colors. You can do this with the help of the formatting tools.
 
-[Link](url) and ![Image](src)
-```
+**Why should mind mapping applications be used?**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Human beings are visual creatures and can understand any sort of information visually more precisely. And best tools for the communication of ideas are the mind maps. Of course, a piece of paper can also help you create a mind map, but with the help of a proper application, work can be easier for you.
 
-### Jekyll Themes
+**Limitation of the size**
+You can use the paper in abundance as there will be no limitation on the size of the paper
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/web-content/Gather-some-information-about-mind-mapping-applications/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**•	Flexibility**
+Simple clicking and dragging is needed when you want to organize your ideas again
 
-### Support or Contact
+**•	Collaborated creation**
+You may be creating an online mind map, but multiple users can come to help you when using a mind mapping software
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**•	Visual aids**
+You can create diagrams with the help of formatting tools. And also present them professionally on slides for better understanding.
+
+Mind mapping applications
+Some of the most trustworthy mind mapping apps that you may use are
+**•	Click**
+•	Mindmeister
+•	Ayoa
+•	Milanote
+•	Microsoft Visio
+•	Mind genius
+•	Miro
+•	Smartdraw
+•	Lucidchart
+•	Coggle
